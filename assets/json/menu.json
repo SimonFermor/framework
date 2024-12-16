@@ -1,0 +1,23 @@
+[
+    {
+        "name": "apps",
+        "title": "Apps",
+        "items": [
+            {
+                "name": "addresses",
+                "title": "Address book",
+                "description": ""
+            },
+            {
+                "name": "people",
+                "title": "People",
+                "description": ""
+            },
+            {
+                "name": "quotes",
+                "title": "Quotes",
+                "description": ""
+            }
+        ]
+    }
+]
