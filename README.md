@@ -1,2 +1,2 @@
-# cfml_common
+# framework
 Common files for ColdFusion applications
